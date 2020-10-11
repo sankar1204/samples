@@ -1,0 +1,8 @@
+C:\gitprojects\samples\IEnumerableExperiment\bin\Release\netstandard2.0\IEnumerableExperiment.deps.json
+C:\gitprojects\samples\IEnumerableExperiment\bin\Release\netstandard2.0\IEnumerableExperiment.dll
+C:\gitprojects\samples\IEnumerableExperiment\bin\Release\netstandard2.0\IEnumerableExperiment.pdb
+C:\gitprojects\samples\IEnumerableExperiment\obj\Release\netstandard2.0\IEnumerableExperiment.csproj.CoreCompileInputs.cache
+C:\gitprojects\samples\IEnumerableExperiment\obj\Release\netstandard2.0\IEnumerableExperiment.AssemblyInfoInputs.cache
+C:\gitprojects\samples\IEnumerableExperiment\obj\Release\netstandard2.0\IEnumerableExperiment.AssemblyInfo.cs
+C:\gitprojects\samples\IEnumerableExperiment\obj\Release\netstandard2.0\IEnumerableExperiment.dll
+C:\gitprojects\samples\IEnumerableExperiment\obj\Release\netstandard2.0\IEnumerableExperiment.pdb
